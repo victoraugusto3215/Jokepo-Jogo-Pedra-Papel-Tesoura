@@ -1,1 +1,1 @@
-# Jogo-Pedra-Papel-Tesoura
+# Jokepo / Jogo-Pedra-Papel-Tesoura
