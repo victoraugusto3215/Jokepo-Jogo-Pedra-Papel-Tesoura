@@ -8,7 +8,7 @@ Olá. Esse projeto foi um desafio escolar, onde tivemos que desenvolver em React
 - Deverá ter um componente para jogar novamente.
 - Deverá exibir o placar de pontuação tanto da máquina quanto do jogador.
 
-https://user-images.githubusercontent.com/100657380/197799635-ec96a610-b4d8-40a2-a6b3-857793c48a8c.mp4
+https://user-images.githubusercontent.com/100657380/197800580-520a3752-aa4a-48a6-a3a3-665c43df6b5c.mp4
 
 
 
