@@ -10,7 +10,7 @@ Olá. Esse projeto foi um desafio escolar, onde tivemos que desenvolver em React
 
 https://user-images.githubusercontent.com/100657380/197800580-520a3752-aa4a-48a6-a3a3-665c43df6b5c.mp4
 
-
-
-
+<video width="320" height="240" controls="controls" autoplay>
+    <source src="https://user-images.githubusercontent.com/100657380/197800580-520a3752-aa4a-48a6-a3a3-665c43df6b5c.mp4" type="video/mp4">
+</video>
 
