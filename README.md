@@ -9,3 +9,5 @@ Olá. Esse projeto foi um desafio escolar, onde tivemos que desenvolver em React
 - Deverá exibir o placar de pontuação tanto da máquina quanto do jogador.
 
 https://user-images.githubusercontent.com/100657380/197803848-d6cf84c8-4825-4665-bbf8-5b67bd9589b0.mp4
+
+![197803848-d6cf84c8-4825-4665-bbf8-5b67bd9589b0](https://user-images.githubusercontent.com/100657380/198058828-afa48652-435d-4a41-81e1-88fa0df49b88.gif)
