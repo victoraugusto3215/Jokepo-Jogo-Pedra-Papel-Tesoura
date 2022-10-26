@@ -4,10 +4,8 @@ import './App.css'
 let opcaoescolhidauser = 0;
 let opcaoescolhidapc = 0;
 let empate = 0;
-
 let pontuacaouser = 0;
 let pontuacaopc = 0;
-
 
 const Titulo = () => {
   return (
