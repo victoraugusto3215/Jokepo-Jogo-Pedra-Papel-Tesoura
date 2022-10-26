@@ -19,7 +19,6 @@ const Titulo = () => {
 
 const Placar = () => {
 return (
-
   <div>
               <div id="placar">
                           <h1> Placar</h1>   <br/>
@@ -33,13 +32,11 @@ return (
                             <p id="empate">Empate</p> <br/>
                             <p id="quantEmpate">0</p>
                           </div>
-
                           <div>
                               <p id="">Usuário</p> <br/>
                               <p id="pontuaUser">0</p>
                           </div>
                         </div>
-
               </div>
   </div>
 );
@@ -159,14 +156,12 @@ const Geraraleatorio = () => {
         document.getElementById("iconpc").src = "../img/pedra.png";
     }
     Validacao();
-
-
   }, 1000)
+  
 const Validacao = () => {
 
   if (opcaoescolhidauser == opcaoescolhidapc) {
     console.log("Empate")
-
     document.getElementById("resultado").style.color = "#bdbf26"
     document.getElementById("resultado").innerHTML = "Empate"
     empate++;
@@ -205,7 +200,6 @@ const Validacao = () => {
   document.getElementById("pontuaUser").innerHTML = pontuacaouser
   document.getElementById("pontuaPC").innerHTML = pontuacaopc
   document.getElementById("quantEmpate").innerHTML = empate
-
 }
 }
 
@@ -247,11 +241,9 @@ const JogarNovo = () =>
   document.getElementById("pontuaUser").innerHTML = pontuacaouser
   document.getElementById("pontuaPC").innerHTML = pontuacaopc
   document.getElementById("quantEmpate").innerHTML = empate
-
 }
   function App() {
     const [count, setCount] = useState(0)
-
     return (
       <div>
 
@@ -259,9 +251,7 @@ const JogarNovo = () =>
         <Placar></Placar>
         <Jogada></Jogada>
         <Icones></Icones>
-
       </div>
     );
   }
-
   export default App
