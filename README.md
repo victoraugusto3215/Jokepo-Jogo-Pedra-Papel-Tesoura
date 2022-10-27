@@ -1,6 +1,6 @@
 # Jokepo / Jogo-Pedra-Papel-Tesoura
 
-Olá. Esse projeto foi um desafio escolar, onde tivemos que desenvolver em React o jogo (pedra, papel , tesoura), seguindo algumas regras:
+Olá. Esse projeto foi um desafio escolar, onde tivemos que desenvolver em React o jogo Jokepo (pedra, papel , tesoura), seguindo algumas regras:
 
 - Será jogador contra o computador, jogador seleciona sua opção e a opção selecionada pelo computador será randômica(entre as 3 disponíveis).
 - Seu programa deverá armazenar o número de vitórias do jogador e do computador, assim como os empates.
